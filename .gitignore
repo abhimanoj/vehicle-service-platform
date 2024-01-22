@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+
+# SQLite database file
+*.sqlite3
+
+# Log files
+*.log
+
+# Media files
+media/
+
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Pipenv
+Pipfile.lock
+Pipfile
+
